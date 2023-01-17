@@ -14,7 +14,7 @@ namespace TheOneLib
         const String apiFile = "./apikey.txt";
         const String idRef = "{id}";
         const String baseUrl = "https://the-one-api.dev/v2";
-        const String moviesUrl = $"{baseUrl}/movie";
+        const String moviesUrl = baseUrl + "/movie";
         const String movieUrl = moviesUrl + "/" + idRef;
         const String movieQuoteUrl = movieUrl + "/quote";
 
