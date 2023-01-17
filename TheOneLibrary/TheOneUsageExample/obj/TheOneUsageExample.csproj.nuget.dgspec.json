@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj": {}
+    "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj": {}
   },
   "projects": {
-    "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj": {
+    "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj",
+        "projectUniqueName": "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj",
         "projectName": "TheOneLib",
-        "projectPath": "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj",
+        "projectPath": "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj",
         "packagesPath": "C:\\Users\\Prowl\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\obj\\",
+        "outputPath": "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -51,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,18 +60,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj": {
+    "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj",
+        "projectUniqueName": "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj",
         "projectName": "TheOneUsageExample",
-        "projectPath": "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj",
+        "projectPath": "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\TheOneUsageExample.csproj",
         "packagesPath": "C:\\Users\\Prowl\\.nuget\\packages\\",
-        "outputPath": "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\obj\\",
+        "outputPath": "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneUsageExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -95,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj": {
-                "projectPath": "F:\\Programming\\Projects\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj"
+              "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj": {
+                "projectPath": "C:\\Users\\Prowl\\Source\\Repos\\j-low-man\\jonathanlowman-SDK\\TheOneLibrary\\TheOneLib\\TheOneLib.csproj"
               }
             }
           }
@@ -116,8 +115,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -126,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

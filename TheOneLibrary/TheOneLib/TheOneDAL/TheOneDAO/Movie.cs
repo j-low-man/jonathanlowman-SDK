@@ -1,11 +1,10 @@
 using System;
 
-namespace TheOneLib
+namespace TheOneLib.TheOneDAL.TheOneDAO
 {
     [Serializable]
-    public class Movie
+    public class Movie: TheOneBase
     {
-        public String _id { get; set; }
         public String name { get; set; }
         public int runtimeInMinutes { get; set; }
         public Double budgetInMillions { get; set; }
